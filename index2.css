@@ -1,0 +1,59 @@
+body {
+    font-family: "Nanum Gothic";
+}
+
+.container {
+    width: 1440px;
+}
+
+.main-wrapper {
+    width: 1440px;
+    border: 1px solid black;
+}
+
+.container {
+    max-width: 1440px;
+}
+
+.main-title-line {
+    text-align: center;
+
+}
+
+.lft-bot, .lft-top {
+    border-right: 1px solid #5d5d;
+    padding: 0;
+}
+
+.lft-bot {
+    border-top: 1px solid #5d5d;
+}
+
+.rft-bot, .rft-top {
+    border-left: 1px solid #5d5d;
+}
+
+.card {
+    border: none;
+}
+
+.main-title-line-h2 {
+    /*text-align: center;*/
+    margin-bottom: 30px;
+}
+
+a:link {
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
